@@ -45,21 +45,11 @@ TypeScript • NestJS • Next.js • Docker • MongoDB • PostgreSQL
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateoPerez117&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoPerez117&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🚀 Currently Learning
 
 ☁️ Cloud Computing  
 ⚙️ Infrastructure as Code  
 🐳 Containerized architectures  
-📦 Microservices systems  
 
 ---
 
